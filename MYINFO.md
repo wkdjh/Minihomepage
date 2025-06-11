@@ -1,2 +1,2 @@
-취미: 축구
-MBTI: INFP
+# 취미: 축구
+# MBTI: INFP
